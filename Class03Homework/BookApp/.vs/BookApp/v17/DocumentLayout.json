@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Seavus\\WebAPI\\Class03\\BookApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E176628C-8068-49F1-AC6F-549D79979608}|BookApp.WebAPI\\BookApp.WebAPI.csproj|c:\\users\\admin\\desktop\\seavus\\webapi\\class03\\bookapp\\bookapp.webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E176628C-8068-49F1-AC6F-549D79979608}|BookApp.WebAPI\\BookApp.WebAPI.csproj|solutionrelative:bookapp.webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E176628C-8068-49F1-AC6F-549D79979608}|BookApp.WebAPI\\BookApp.WebAPI.csproj|C:\\Users\\Admin\\Desktop\\Seavus\\WebAPI\\Class03\\BookApp\\bookapp.webapi\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E176628C-8068-49F1-AC6F-549D79979608}|BookApp.WebAPI\\BookApp.WebAPI.csproj|solutionrelative:bookapp.webapi\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E176628C-8068-49F1-AC6F-549D79979608}|BookApp.WebAPI\\BookApp.WebAPI.csproj|C:\\Users\\Admin\\Desktop\\Seavus\\WebAPI\\Class03\\BookApp\\bookapp.webapi\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E176628C-8068-49F1-AC6F-549D79979608}|BookApp.WebAPI\\BookApp.WebAPI.csproj|solutionrelative:bookapp.webapi\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticDb.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Seavus\\WebAPI\\Class03\\BookApp\\BookApp.WebAPI\\StaticDb.cs",
+              "RelativeDocumentMoniker": "BookApp.WebAPI\\StaticDb.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Seavus\\WebAPI\\Class03\\BookApp\\BookApp.WebAPI\\StaticDb.cs",
+              "RelativeToolTip": "BookApp.WebAPI\\StaticDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:04:22.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Seavus\\WebAPI\\Class03\\BookApp\\BookApp.WebAPI\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "BookApp.WebAPI\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Seavus\\WebAPI\\Class03\\BookApp\\BookApp.WebAPI\\Model\\Book.cs",
+              "RelativeToolTip": "BookApp.WebAPI\\Model\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:02:15.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Seavus\\WebAPI\\Class03\\BookApp\\BookApp.WebAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookApp.WebAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Seavus\\WebAPI\\Class03\\BookApp\\BookApp.WebAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookApp.WebAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAkwGIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:01:59.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
